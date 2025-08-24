@@ -1,0 +1,1 @@
+vllm serve /root/autodl-tmp/Qwen/Qwen3-0.6B
